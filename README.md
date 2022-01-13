@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**IzabelaT/IzabelaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Highly motivated Quality Assurance (QA) Engineer with over 4 years of experience in the IT industry.
+Skilled in Software QA Testing, Process and Management.
+
+As a Quality Assurance (QA) & Technical Writer, I have gained much experience working in a variety
+of industries ranging from recreation to information technology. My transferable skills such as communications and heightened awareness to detail, which in turn helped sharpen my work ethic.
 
 Here are some ideas to get you started:
 
